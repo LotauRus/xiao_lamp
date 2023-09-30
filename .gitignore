@@ -1,0 +1,4 @@
+.idea/
+/vendor/
+.build
+/resources/kicad/xiao_lamp-backups/
