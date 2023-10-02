@@ -9,14 +9,14 @@ xiao - https://wiki.seeedstudio.com/Seeeduino-XIAO/ \
 tinygo - https://tinygo.org/docs/reference/microcontrollers/machine/xiao/
 
 ---
-#### Структура:
+#### Структура: ####
 https://github.com/LotauRus/xiao_lamp - TinyGo проект (tinygo version 0.30.0 windows/amd64 (using go version go1.21.1 and LLVM version 16.0.1)) \
 https://github.com/LotauRus/xiao_lamp/bin - Готовая прошивка для xiao  \
 https://github.com/LotauRus/xiao_lamp/resources/kicad - Файлы проекта KiCAD (компоненты, использованные в схеме kicad, можно найти тут: https://github.com/LotauRus/kicad_3rdparty) \
 https://github.com/LotauRus/xiao_lamp/resources/kicad/documents - Вспомогательная документация, даташиты \
 https://github.com/LotauRus/xiao_lamp/resources/kicad/documents/pcb - Файлы для печати: проект, схема на плёнку под ЛУТ (фоторезист), схема сверления \
 ---
-#### Компоненты:
+#### Компоненты: ####
  * Стабилизатор LM78M05_TO252
  * Резистор 1206 10K
  * Резистор 1206 100K
