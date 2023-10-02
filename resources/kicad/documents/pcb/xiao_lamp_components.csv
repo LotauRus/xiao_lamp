@@ -1,0 +1,14 @@
+"Идентиф.";"Обозначение";"Посад.место";"Количество";"Значение";"Поставщик и справка";
+1;"U1";"TO-252-2";1;"LM78M05_TO252";;;
+2;"R1";"R_1206_3216Metric";1;"10K";;;
+3;"C1";"C_1206_3216Metric";1;"0.1мкф";;;
+4;"MOSFET1";"SOT-23";1;"2N7002";;;
+5;"C2";"C_1206_3216Metric";1;"0.33мкф";;;
+6;"R3";"R_1206_3216Metric";1;"100K";;;
+7;"LMP1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"LAMP";;;
+8;"U2";"Seeduino XIAO-MODULE14H-2.54-21X17.8MM";1;"SeeeduinoXIAO";;;
+9;"RV2";"Potentiometer_Bourns_3296W_Vertical";1;"LIMITER";;;
+10;"RSW1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"RESET";;;
+11;"FRES1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Photoresisor";;;
+12;"JST1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"POWER";;;
+13;"RV1";"Potentiometer_Bourns_3296W_Vertical";1;"TIME";;;
